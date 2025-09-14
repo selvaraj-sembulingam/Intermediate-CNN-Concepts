@@ -71,6 +71,7 @@
 ### Analysis:
 * Tried to make it effective by using ReduceLROnPlateau
 * Achieved test accuracy more thatn 99.4
+<img width="674" height="810" alt="image" src="https://github.com/user-attachments/assets/c35acc45-151b-4a1c-a709-0a2158d4b1c9" />
 
 
 ## Receptive Field of the Models
